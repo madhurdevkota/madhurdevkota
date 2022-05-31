@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madhurdevkota
-- 👀 I have 8 years of Data Science, Geospatial Analytics knowledge
+- 👀 I have 8 years of Data Science, Geospatial Analytics 
 - 🌱 I’m constantly learning advanced techniques in Machine Learning, Deep Learning and Artificial Intelligence
 - 📫 How to reach me madhur.dev@gmail.com   |    linkedin.com/in/madhurdev/
 

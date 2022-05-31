@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @madhurdevkota
-- 👀 I’m interested in Machine Learning, Deep Learning, ML for Geospatial data
-- 🌱 I’m currently learning new and advanced techniques in ML, AI
-- 💞️ I’m looking to collaborate on ...
+- 👀 I have 8 years of Data Science, Geospatial Analytics knowledge
+- 🌱 I’m constantly learning advanced techniques in Machine Learning, Deep Learning and Artificial Intelligence
 - 📫 How to reach me madhur.dev@gmail.com   |    linkedin.com/in/madhurdev/
 
 <!---

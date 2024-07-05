@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madhurdevkota
 - 👀 I have 8 years of Data Science, Geospatial Analytics 
 - 🌱 I’m constantly learning advanced techniques in Machine Learning, Deep Learning and Artificial Intelligence
-- 📫 How to reach me  [https://madhurdev.com/](madhurdev.com)   |    madhur.dev@gmail.com   |    linkedin.com/in/madhurdev/
+- 📫 How to reach me  [madhurdev.com](https://madhurdev.com/)   |    madhur.dev@gmail.com   |    linkedin.com/in/madhurdev/
 
 <!---
 madhurdevkota/madhurdevkota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
